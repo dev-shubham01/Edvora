@@ -1,0 +1,59 @@
+.card {
+  margin-left: 43px;
+  height: 150px;
+  background: #171717;
+  border-radius: 10px;
+  color: white;
+  margin-right: 43px;
+  padding-top: 22px;
+  padding-left: 29px;
+  padding-bottom: 28px;
+  display: flex;
+  margin-bottom: 13px;
+}
+
+.card .image {
+  width: 296px;
+  height: 148px;
+  margin-left: 0px !important;
+}
+
+.card .image img {
+  height: 148px;
+  width: 296px;
+}
+
+.context {
+  margin-left: 44px;
+  display: block;
+  width: 100%;
+}
+
+.content{
+    float: left;
+}
+
+.context h3 {
+  padding-bottom: 8px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #cfcfcf;
+}
+
+.places {
+  display: flex;
+  margin-right: 30px;
+  float: right;
+}
+
+.places h3 {
+  padding-right: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  color: #ffffff;
+}

@@ -1,0 +1,51 @@
+.modal {
+  width: 228px;
+  height: 190px;
+  background: #131313;
+  border-radius: 15px;
+  position: fixed;
+  top: 150px;
+  right: 45px;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+  color: #a5a5a5 !important;
+  margin-top: 23px;
+  margin-left: 42px;
+  margin-bottom: 12px;
+}
+
+.line {
+  border: 1px solid #cbcbcb;
+  border-bottom: 0px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.states {
+  margin-left: 30px;
+}
+
+select {
+  width: 168.45px;
+  height: 37.5px;
+  background: #232323;
+  border-radius: 4.68775px;
+  color: white;
+}
+
+.state{
+    margin-top: 20px;
+}
+
+.city{
+    margin-top: 12px;
+}
